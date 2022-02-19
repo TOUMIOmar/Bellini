@@ -1,0 +1,36 @@
+.logonav{
+    width: 268px;
+    height: 68px;
+}
+.navbar{
+    width: 80%;
+    margin: auto;
+    padding-right: 100px;
+    
+}
+.navbar ul {
+   
+}
+.navbar li{
+    list-style: none;
+    float: right;
+}
+.navbar a{
+    text-decoration: none;
+    font-size: 18px;
+    color: rgb(110, 109, 107);
+    font-style:inherit;
+}
+.navbar a:hover{
+    text-decoration: none;
+    font-size: 18px;
+    color:#0abe73;
+    font-style:inherit;
+    
+}
+span.navigationSpace {
+    padding-left: 25px;
+}
+.departements {
+    position: relative; 
+   }
